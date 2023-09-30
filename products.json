@@ -1,0 +1,198 @@
+{
+    "productos": [
+        {
+            "name": "pokemon",
+            "coleccion": [
+                {
+                    "name": "Obsidian Flames",
+                    "productos": [
+                        {
+                            "name": "Pokemon TCG Back to School Pencil Case",
+                            "data": {
+                                "imageUrl": "image/pokemon/link",
+                                "companyCode": "4012927161784",
+                                "language": "Español",
+                                "type": "Structure Deck",
+                                "stock": 55,
+                                "information": "Baraja de estructura: The Crimson King viene con un total de 50 cartas",
+                                "price": {
+                                    "offerPrice": 45,
+                                    "price": 55
+                                },
+                                "content": [
+                                    "5 Ultra Raras",
+                                    "3 Súper Raras",
+                                    "42 Comunes"
+                                ],
+                                "releaseDate": "Febrero 2001"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "magic",
+            "coleccion": [
+                {
+                    "name": "Commander Masters",
+                    "productos": [
+                        {
+                            "name": "MTG Commander Masters Set Booster Pack",
+                            "data": {
+                                "imageUrl": "image/pokemon/link",
+                                "companyCode": "195166216799",
+                                "language": "Español",
+                                "type": "Booster",
+                                "stock": 6,
+                                "information": "Baraja de estructura: The Crimson King viene con un total de 50 cartas",
+                                "price": {
+                                    "offerPrice": null,
+                                    "price": 85
+                                },
+                                "content": [
+                                    "50 Ultra Raras",
+                                    "3 Súper Raras",
+                                    "42 Comunes"
+                                ],
+                                "releaseDate": "Febrero 2001"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "yugioh",
+            "coleccion": [
+                {
+                    "name": "The Crimson King Structure Deck",
+                    "productos": [
+                        {
+                            "name": "YGO The Crimson King Structure Deck",
+                            "data": {
+                                "imageUrl": "image/pokemon/link",
+                                "companyCode": "4012927161784",
+                                "language": "Inglés",
+                                "type": "Structure Deck",
+                                "stock": 55,
+                                "information": "Baraja de estructura: The Crimson King viene con un total de 50 cartas",
+                                "price": {
+                                    "offerPrice": 45,
+                                    "price": 55
+                                },
+                                "content": [
+                                    "5 Ultra Raras",
+                                    "3 Súper Raras",
+                                    "42 Comunes"
+                                ],
+                                "releaseDate": "Febrero 2001"
+                            }
+                        },
+                        {
+                            "name": "YGO The Crimson King Structure Deck Español",
+                            "data": {
+                                "imageUrl": "image/pokemon/link",
+                                "companyCode": "4012927161784",
+                                "language": "Español",
+                                "type": "Structure Deck",
+                                "stock": 55,
+                                "information": "Baraja de estructura: The Crimson King viene con un total de 50 cartas",
+                                "price": {
+                                    "offerPrice": 45,
+                                    "price": 55
+                                },
+                                "content": [
+                                    "5 Ultra Raras",
+                                    "3 Súper Raras",
+                                    "42 Comunes"
+                                ],
+                                "releaseDate": "Febrero 2001"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "25th Anniversary Dueling Heroes Tin",
+                    "productos": [
+                        {
+                            "name": "YGO 25th Anniversary Dueling Heroes Megapack",
+                            "data": {
+                                "imageUrl": "image/pokemon/link",
+                                "companyCode": "MP23EN",
+                                "language": "Inglés",
+                                "type": "Structure Deck",
+                                "stock": 5,
+                                "information": "Contiene lo siguiente:",
+                                "price": {
+                                    "offerPrice": 45,
+                                    "price": 55
+                                },
+                                "content": [
+                                    "2 Prismatic Secret Rares",
+                                    "2 Ultra Rares",
+                                    "1 Super Rare",
+                                    "1 Rare",
+                                    "12 Commons"
+                                ],
+                                "releaseDate": "Febrero 2004"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "accessories",
+            "coleccion": [
+                {
+                    "name": "Ropa",
+                    "productos": [
+                        {
+                            "name": "Papurri Store Polo Talla S - Negro",
+                            "data": {
+                                "imageUrl": "image/pokemon/link",
+                                "companyCode": "4012927161784",
+                                "language": "Inglés",
+                                "type": "Structure Deck",
+                                "stock": 55,
+                                "information": "Baraja de estructura: The Crimson King viene con un total de 50 cartas",
+                                "price": {
+                                    "offerPrice": null,
+                                    "price": 35
+                                },
+                                "content": [
+                                    "5 Ultra Raras",
+                                    "3 Súper Raras",
+                                    "42 Comunes"
+                                ],
+                                "releaseDate": "Febrero 2001"
+                            }
+                        },
+                        {
+                            "name": "YGO The Crimson King Structure Deck Español",
+                            "data": {
+                                "imageUrl": "image/pokemon/link",
+                                "companyCode": "4012927161784",
+                                "language": "Español",
+                                "type": "Structure Deck",
+                                "stock": 55,
+                                "information": "Baraja de estructura: The Crimson King viene con un total de 50 cartas",
+                                "price": {
+                                    "offerPrice": 45,
+                                    "price": 55
+                                },
+                                "content": [
+                                    "5 Ultra Raras",
+                                    "3 Súper Raras",
+                                    "42 Comunes"
+                                ],
+                                "releaseDate": "Febrero 2001"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
